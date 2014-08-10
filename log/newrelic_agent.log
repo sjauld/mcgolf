@@ -264,3 +264,1667 @@
 [08/09/14 17:43:20 +1000 beerOS (6521)] INFO : Installing Net instrumentation
 [08/09/14 17:43:20 +1000 beerOS (6521)] INFO : Finished instrumentation
 [08/09/14 17:43:20 +1000 beerOS (6521)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:45:16 +1000 beerOS (6794)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:45:16 +1000 beerOS (6794)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Environment: development
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : No known dispatcher detected.
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Application: development
+[08/09/14 17:45:16 +1000 beerOS (6794)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Installing Net instrumentation
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Finished instrumentation
+[08/09/14 17:45:16 +1000 beerOS (6794)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:45:48 +1000 beerOS (6868)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:45:48 +1000 beerOS (6868)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Environment: development
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : No known dispatcher detected.
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Application: development
+[08/09/14 17:45:48 +1000 beerOS (6868)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Installing Net instrumentation
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Finished instrumentation
+[08/09/14 17:45:48 +1000 beerOS (6868)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:48:25 +1000 beerOS (6868)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 17:48:25 +1000 beerOS (6868)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:49:51 +1000 beerOS (7368)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:49:51 +1000 beerOS (7368)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Environment: development
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : No known dispatcher detected.
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Application: development
+[08/09/14 17:49:51 +1000 beerOS (7368)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Installing Net instrumentation
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Finished instrumentation
+[08/09/14 17:49:51 +1000 beerOS (7368)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:50:00 +1000 beerOS (7397)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:50:00 +1000 beerOS (7397)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Environment: development
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : No known dispatcher detected.
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Application: development
+[08/09/14 17:50:00 +1000 beerOS (7397)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Installing Net instrumentation
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Finished instrumentation
+[08/09/14 17:50:00 +1000 beerOS (7397)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:53:33 +1000 beerOS (7397)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 17:53:33 +1000 beerOS (7397)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:53:48 +1000 beerOS (8082)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:53:48 +1000 beerOS (8082)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Environment: development
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : No known dispatcher detected.
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Application: development
+[08/09/14 17:53:48 +1000 beerOS (8082)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Installing Net instrumentation
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Finished instrumentation
+[08/09/14 17:53:48 +1000 beerOS (8082)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:53:53 +1000 beerOS (8082)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 17:53:53 +1000 beerOS (8082)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:57:01 +1000 beerOS (8600)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:57:01 +1000 beerOS (8600)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Environment: development
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : No known dispatcher detected.
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Application: development
+[08/09/14 17:57:01 +1000 beerOS (8600)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Installing Net instrumentation
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Finished instrumentation
+[08/09/14 17:57:01 +1000 beerOS (8600)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:57:02 +1000 beerOS (8617)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:57:02 +1000 beerOS (8617)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Environment: development
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : No known dispatcher detected.
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Application: development
+[08/09/14 17:57:02 +1000 beerOS (8617)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Installing Net instrumentation
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Finished instrumentation
+[08/09/14 17:57:02 +1000 beerOS (8617)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 17:57:11 +1000 beerOS (8647)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 17:57:11 +1000 beerOS (8647)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Environment: development
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : No known dispatcher detected.
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Application: development
+[08/09/14 17:57:11 +1000 beerOS (8647)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Installing deferred Rack instrumentation
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Installing Sinatra instrumentation
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Installing Net instrumentation
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Finished instrumentation
+[08/09/14 17:57:11 +1000 beerOS (8647)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 17:57:13 +1000 beerOS (8647)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 17:57:13 +1000 beerOS (8647)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:02:47 +1000 beerOS (9347)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:02:47 +1000 beerOS (9347)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:02:47 +1000 beerOS (9347)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:02:47 +1000 beerOS (9347)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:02:47 +1000 beerOS (9347)] INFO : Environment: development
+[08/09/14 18:02:47 +1000 beerOS (9347)] INFO : No known dispatcher detected.
+[08/09/14 18:02:47 +1000 beerOS (9347)] INFO : Application: development
+[08/09/14 18:02:47 +1000 beerOS (9347)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Installing Net instrumentation
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Finished instrumentation
+[08/09/14 18:02:48 +1000 beerOS (9347)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:02:51 +1000 beerOS (9347)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:02:51 +1000 beerOS (9347)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:03:35 +1000 beerOS (9462)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:03:35 +1000 beerOS (9462)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Environment: development
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : No known dispatcher detected.
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Application: development
+[08/09/14 18:03:35 +1000 beerOS (9462)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Installing Net instrumentation
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Finished instrumentation
+[08/09/14 18:03:35 +1000 beerOS (9462)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:03:38 +1000 beerOS (9462)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:03:38 +1000 beerOS (9462)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:03:54 +1000 beerOS (9526)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:03:54 +1000 beerOS (9526)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Environment: development
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : No known dispatcher detected.
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Application: development
+[08/09/14 18:03:54 +1000 beerOS (9526)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Installing Net instrumentation
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Finished instrumentation
+[08/09/14 18:03:54 +1000 beerOS (9526)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:03:56 +1000 beerOS (9526)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:03:56 +1000 beerOS (9526)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:04:07 +1000 beerOS (9572)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:04:07 +1000 beerOS (9572)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Environment: development
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : No known dispatcher detected.
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Application: development
+[08/09/14 18:04:07 +1000 beerOS (9572)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Installing Net instrumentation
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Finished instrumentation
+[08/09/14 18:04:07 +1000 beerOS (9572)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:04:10 +1000 beerOS (9572)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:04:10 +1000 beerOS (9572)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:04:54 +1000 beerOS (9683)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:04:54 +1000 beerOS (9683)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Environment: development
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : No known dispatcher detected.
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Application: development
+[08/09/14 18:04:54 +1000 beerOS (9683)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Installing Net instrumentation
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Finished instrumentation
+[08/09/14 18:04:54 +1000 beerOS (9683)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:05:00 +1000 beerOS (9683)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:05:00 +1000 beerOS (9683)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:05:15 +1000 beerOS (9744)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:05:15 +1000 beerOS (9744)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Environment: development
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : No known dispatcher detected.
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Application: development
+[08/09/14 18:05:15 +1000 beerOS (9744)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Installing Net instrumentation
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Finished instrumentation
+[08/09/14 18:05:15 +1000 beerOS (9744)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:05:22 +1000 beerOS (9744)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:05:22 +1000 beerOS (9744)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:05:28 +1000 beerOS (9798)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:05:28 +1000 beerOS (9798)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Environment: development
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : No known dispatcher detected.
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Application: development
+[08/09/14 18:05:28 +1000 beerOS (9798)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Installing Net instrumentation
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Finished instrumentation
+[08/09/14 18:05:28 +1000 beerOS (9798)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:05:53 +1000 beerOS (9857)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:05:53 +1000 beerOS (9857)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Environment: development
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : No known dispatcher detected.
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Application: development
+[08/09/14 18:05:53 +1000 beerOS (9857)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Installing Net instrumentation
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Finished instrumentation
+[08/09/14 18:05:53 +1000 beerOS (9857)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:05:58 +1000 beerOS (9857)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:05:58 +1000 beerOS (9857)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:06:26 +1000 beerOS (9949)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:06:26 +1000 beerOS (9949)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Environment: development
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : No known dispatcher detected.
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Application: development
+[08/09/14 18:06:26 +1000 beerOS (9949)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Installing Net instrumentation
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Finished instrumentation
+[08/09/14 18:06:26 +1000 beerOS (9949)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:06:30 +1000 beerOS (9949)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:06:30 +1000 beerOS (9949)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:11:29 +1000 beerOS (10592)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:11:29 +1000 beerOS (10592)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Environment: development
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : No known dispatcher detected.
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Application: development
+[08/09/14 18:11:29 +1000 beerOS (10592)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Installing Net instrumentation
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Finished instrumentation
+[08/09/14 18:11:29 +1000 beerOS (10592)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:12:09 +1000 beerOS (10692)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:12:09 +1000 beerOS (10692)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Environment: development
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : No known dispatcher detected.
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Application: development
+[08/09/14 18:12:09 +1000 beerOS (10692)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Installing Net instrumentation
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Finished instrumentation
+[08/09/14 18:12:09 +1000 beerOS (10692)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:12:45 +1000 beerOS (10775)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:12:45 +1000 beerOS (10775)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Environment: development
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : No known dispatcher detected.
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Application: development
+[08/09/14 18:12:45 +1000 beerOS (10775)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Installing Net instrumentation
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Finished instrumentation
+[08/09/14 18:12:45 +1000 beerOS (10775)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:12:50 +1000 beerOS (10775)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:12:50 +1000 beerOS (10775)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:13:00 +1000 beerOS (10831)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:13:00 +1000 beerOS (10831)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Environment: development
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : No known dispatcher detected.
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Application: development
+[08/09/14 18:13:00 +1000 beerOS (10831)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Installing Net instrumentation
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Finished instrumentation
+[08/09/14 18:13:00 +1000 beerOS (10831)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:13:03 +1000 beerOS (10831)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:13:03 +1000 beerOS (10831)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:13:16 +1000 beerOS (10886)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:13:16 +1000 beerOS (10886)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Environment: development
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : No known dispatcher detected.
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Application: development
+[08/09/14 18:13:16 +1000 beerOS (10886)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Installing Net instrumentation
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Finished instrumentation
+[08/09/14 18:13:16 +1000 beerOS (10886)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:13:20 +1000 beerOS (10886)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:13:20 +1000 beerOS (10886)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:13:46 +1000 beerOS (10965)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:13:46 +1000 beerOS (10965)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Environment: development
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : No known dispatcher detected.
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Application: development
+[08/09/14 18:13:46 +1000 beerOS (10965)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Installing Net instrumentation
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Finished instrumentation
+[08/09/14 18:13:46 +1000 beerOS (10965)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:13:50 +1000 beerOS (10965)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:13:50 +1000 beerOS (10965)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:17:11 +1000 beerOS (11408)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:17:11 +1000 beerOS (11408)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Environment: development
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : No known dispatcher detected.
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Application: development
+[08/09/14 18:17:11 +1000 beerOS (11408)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Installing Net instrumentation
+[08/09/14 18:17:11 +1000 beerOS (11408)] INFO : Finished instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:17:48 +1000 beerOS (11495)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:17:48 +1000 beerOS (11495)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Environment: development
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : No known dispatcher detected.
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Application: development
+[08/09/14 18:17:48 +1000 beerOS (11495)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Installing Net instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Finished instrumentation
+[08/09/14 18:17:48 +1000 beerOS (11495)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:17:51 +1000 beerOS (11495)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:17:51 +1000 beerOS (11495)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:19:11 +1000 beerOS (11692)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:19:11 +1000 beerOS (11692)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Environment: development
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : No known dispatcher detected.
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Application: development
+[08/09/14 18:19:11 +1000 beerOS (11692)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Installing Net instrumentation
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Finished instrumentation
+[08/09/14 18:19:11 +1000 beerOS (11692)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:19:16 +1000 beerOS (11692)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:19:16 +1000 beerOS (11692)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:22:01 +1000 beerOS (12127)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:22:01 +1000 beerOS (12127)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Environment: development
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : No known dispatcher detected.
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Application: development
+[08/09/14 18:22:01 +1000 beerOS (12127)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Installing Net instrumentation
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Finished instrumentation
+[08/09/14 18:22:01 +1000 beerOS (12127)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:22:07 +1000 beerOS (12157)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:22:07 +1000 beerOS (12157)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Environment: development
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : No known dispatcher detected.
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Application: development
+[08/09/14 18:22:07 +1000 beerOS (12157)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Installing Net instrumentation
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Finished instrumentation
+[08/09/14 18:22:07 +1000 beerOS (12157)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:22:25 +1000 beerOS (12157)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:22:25 +1000 beerOS (12157)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:23:15 +1000 beerOS (12348)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:23:15 +1000 beerOS (12348)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Environment: development
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : No known dispatcher detected.
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Application: development
+[08/09/14 18:23:15 +1000 beerOS (12348)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Installing Net instrumentation
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Finished instrumentation
+[08/09/14 18:23:15 +1000 beerOS (12348)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:23:50 +1000 beerOS (12438)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:23:50 +1000 beerOS (12438)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Environment: development
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : No known dispatcher detected.
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Application: development
+[08/09/14 18:23:50 +1000 beerOS (12438)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Installing Net instrumentation
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Finished instrumentation
+[08/09/14 18:23:50 +1000 beerOS (12438)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:24:22 +1000 beerOS (12438)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:24:22 +1000 beerOS (12438)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:26:17 +1000 beerOS (12771)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:26:17 +1000 beerOS (12771)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Environment: development
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : No known dispatcher detected.
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Application: development
+[08/09/14 18:26:17 +1000 beerOS (12771)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Installing Net instrumentation
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Finished instrumentation
+[08/09/14 18:26:17 +1000 beerOS (12771)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:26:20 +1000 beerOS (12771)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:26:20 +1000 beerOS (12771)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:28:01 +1000 beerOS (13008)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:28:01 +1000 beerOS (13008)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:28:01 +1000 beerOS (13008)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:28:01 +1000 beerOS (13008)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:28:01 +1000 beerOS (13008)] INFO : Environment: development
+[08/09/14 18:28:01 +1000 beerOS (13008)] INFO : No known dispatcher detected.
+[08/09/14 18:28:01 +1000 beerOS (13008)] INFO : Application: development
+[08/09/14 18:28:01 +1000 beerOS (13008)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Installing Net instrumentation
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Finished instrumentation
+[08/09/14 18:28:02 +1000 beerOS (13008)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:28:05 +1000 beerOS (13008)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:28:05 +1000 beerOS (13008)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:31:27 +1000 beerOS (13439)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:31:27 +1000 beerOS (13439)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Environment: development
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : No known dispatcher detected.
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Application: development
+[08/09/14 18:31:27 +1000 beerOS (13439)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Installing Net instrumentation
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Finished instrumentation
+[08/09/14 18:31:27 +1000 beerOS (13439)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:31:30 +1000 beerOS (13439)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:31:30 +1000 beerOS (13439)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:31:44 +1000 beerOS (13504)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:31:44 +1000 beerOS (13504)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Environment: development
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : No known dispatcher detected.
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Application: development
+[08/09/14 18:31:44 +1000 beerOS (13504)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Installing Net instrumentation
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Finished instrumentation
+[08/09/14 18:31:44 +1000 beerOS (13504)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:31:50 +1000 beerOS (13504)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:31:50 +1000 beerOS (13504)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:34:18 +1000 beerOS (13843)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:34:18 +1000 beerOS (13843)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Environment: development
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : No known dispatcher detected.
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Application: development
+[08/09/14 18:34:18 +1000 beerOS (13843)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Installing Net instrumentation
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Finished instrumentation
+[08/09/14 18:34:18 +1000 beerOS (13843)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:34:22 +1000 beerOS (13843)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:34:22 +1000 beerOS (13843)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:36:48 +1000 beerOS (14188)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:36:48 +1000 beerOS (14188)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Environment: development
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : No known dispatcher detected.
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Application: development
+[08/09/14 18:36:48 +1000 beerOS (14188)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Installing Net instrumentation
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Finished instrumentation
+[08/09/14 18:36:48 +1000 beerOS (14188)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:36:53 +1000 beerOS (14188)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:36:53 +1000 beerOS (14188)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:37:29 +1000 beerOS (14315)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:37:29 +1000 beerOS (14315)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Environment: development
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : No known dispatcher detected.
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Application: development
+[08/09/14 18:37:29 +1000 beerOS (14315)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Installing Net instrumentation
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Finished instrumentation
+[08/09/14 18:37:29 +1000 beerOS (14315)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:37:33 +1000 beerOS (14338)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:37:33 +1000 beerOS (14338)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Environment: development
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : No known dispatcher detected.
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Application: development
+[08/09/14 18:37:33 +1000 beerOS (14338)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Installing Net instrumentation
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Finished instrumentation
+[08/09/14 18:37:33 +1000 beerOS (14338)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:37:35 +1000 beerOS (14338)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:37:35 +1000 beerOS (14338)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:38:56 +1000 beerOS (14600)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:38:56 +1000 beerOS (14600)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Environment: development
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : No known dispatcher detected.
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Application: development
+[08/09/14 18:38:56 +1000 beerOS (14600)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Installing Net instrumentation
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Finished instrumentation
+[08/09/14 18:38:56 +1000 beerOS (14600)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:39:09 +1000 beerOS (14645)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:39:09 +1000 beerOS (14645)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Environment: development
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : No known dispatcher detected.
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Application: development
+[08/09/14 18:39:09 +1000 beerOS (14645)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Installing Net instrumentation
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Finished instrumentation
+[08/09/14 18:39:09 +1000 beerOS (14645)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:40:00 +1000 beerOS (14645)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:40:00 +1000 beerOS (14645)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:42:50 +1000 beerOS (15184)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:42:50 +1000 beerOS (15184)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Environment: development
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : No known dispatcher detected.
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Application: development
+[08/09/14 18:42:50 +1000 beerOS (15184)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Installing Net instrumentation
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Finished instrumentation
+[08/09/14 18:42:50 +1000 beerOS (15184)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:42:52 +1000 beerOS (15184)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:42:52 +1000 beerOS (15184)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:43:10 +1000 beerOS (15248)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:43:10 +1000 beerOS (15248)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Environment: development
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : No known dispatcher detected.
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Application: development
+[08/09/14 18:43:10 +1000 beerOS (15248)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Installing Net instrumentation
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Finished instrumentation
+[08/09/14 18:43:10 +1000 beerOS (15248)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:43:30 +1000 beerOS (15301)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:43:30 +1000 beerOS (15301)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Environment: development
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : No known dispatcher detected.
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Application: development
+[08/09/14 18:43:30 +1000 beerOS (15301)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Installing Net instrumentation
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Finished instrumentation
+[08/09/14 18:43:30 +1000 beerOS (15301)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:43:35 +1000 beerOS (15323)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:43:35 +1000 beerOS (15323)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Environment: development
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : No known dispatcher detected.
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Application: development
+[08/09/14 18:43:35 +1000 beerOS (15323)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Installing Net instrumentation
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Finished instrumentation
+[08/09/14 18:43:35 +1000 beerOS (15323)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:45:44 +1000 beerOS (15323)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:45:44 +1000 beerOS (15323)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:46:41 +1000 beerOS (15734)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:46:41 +1000 beerOS (15734)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Environment: development
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : No known dispatcher detected.
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Application: development
+[08/09/14 18:46:41 +1000 beerOS (15734)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Installing Net instrumentation
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Finished instrumentation
+[08/09/14 18:46:41 +1000 beerOS (15734)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:50:06 +1000 beerOS (16173)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:50:06 +1000 beerOS (16173)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Environment: development
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : No known dispatcher detected.
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Application: development
+[08/09/14 18:50:06 +1000 beerOS (16173)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Installing Net instrumentation
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Finished instrumentation
+[08/09/14 18:50:06 +1000 beerOS (16173)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:53:35 +1000 beerOS (16645)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:53:35 +1000 beerOS (16645)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:53:35 +1000 beerOS (16645)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:53:35 +1000 beerOS (16645)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:53:35 +1000 beerOS (16645)] INFO : Environment: development
+[08/09/14 18:53:35 +1000 beerOS (16645)] INFO : No known dispatcher detected.
+[08/09/14 18:53:35 +1000 beerOS (16645)] INFO : Application: development
+[08/09/14 18:53:35 +1000 beerOS (16645)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Installing Net instrumentation
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Finished instrumentation
+[08/09/14 18:53:36 +1000 beerOS (16645)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:54:06 +1000 beerOS (16723)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:54:06 +1000 beerOS (16723)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Environment: development
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : No known dispatcher detected.
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Application: development
+[08/09/14 18:54:06 +1000 beerOS (16723)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Installing Net instrumentation
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Finished instrumentation
+[08/09/14 18:54:06 +1000 beerOS (16723)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 18:54:30 +1000 beerOS (16787)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 18:54:30 +1000 beerOS (16787)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Environment: development
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : No known dispatcher detected.
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Application: development
+[08/09/14 18:54:30 +1000 beerOS (16787)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Installing deferred Rack instrumentation
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Installing Sinatra instrumentation
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Installing Net instrumentation
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Finished instrumentation
+[08/09/14 18:54:30 +1000 beerOS (16787)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 18:54:33 +1000 beerOS (16787)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 18:54:33 +1000 beerOS (16787)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:01:56 +1000 beerOS (17712)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:01:56 +1000 beerOS (17712)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Environment: development
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : No known dispatcher detected.
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Application: development
+[08/09/14 19:01:56 +1000 beerOS (17712)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Installing Net instrumentation
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Finished instrumentation
+[08/09/14 19:01:56 +1000 beerOS (17712)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:01:58 +1000 beerOS (17712)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:01:58 +1000 beerOS (17712)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:02:09 +1000 beerOS (17767)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:02:09 +1000 beerOS (17767)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:02:09 +1000 beerOS (17767)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:02:09 +1000 beerOS (17767)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:02:09 +1000 beerOS (17767)] INFO : Environment: development
+[08/09/14 19:02:09 +1000 beerOS (17767)] INFO : No known dispatcher detected.
+[08/09/14 19:02:09 +1000 beerOS (17767)] INFO : Application: development
+[08/09/14 19:02:09 +1000 beerOS (17767)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Installing Net instrumentation
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Finished instrumentation
+[08/09/14 19:02:10 +1000 beerOS (17767)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:02:12 +1000 beerOS (17767)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:02:12 +1000 beerOS (17767)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:02:54 +1000 beerOS (17874)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:02:54 +1000 beerOS (17874)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Environment: development
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : No known dispatcher detected.
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Application: development
+[08/09/14 19:02:54 +1000 beerOS (17874)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Installing Net instrumentation
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Finished instrumentation
+[08/09/14 19:02:54 +1000 beerOS (17874)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:02:59 +1000 beerOS (17901)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:02:59 +1000 beerOS (17901)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Environment: development
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : No known dispatcher detected.
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Application: development
+[08/09/14 19:02:59 +1000 beerOS (17901)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Installing Net instrumentation
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Finished instrumentation
+[08/09/14 19:02:59 +1000 beerOS (17901)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:03:03 +1000 beerOS (17901)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:03:03 +1000 beerOS (17901)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:03:09 +1000 beerOS (17948)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:03:09 +1000 beerOS (17948)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Environment: development
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : No known dispatcher detected.
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Application: development
+[08/09/14 19:03:09 +1000 beerOS (17948)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Installing Net instrumentation
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Finished instrumentation
+[08/09/14 19:03:09 +1000 beerOS (17948)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:03:11 +1000 beerOS (17948)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:03:11 +1000 beerOS (17948)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:03:55 +1000 beerOS (18059)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:03:55 +1000 beerOS (18059)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Environment: development
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : No known dispatcher detected.
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Application: development
+[08/09/14 19:03:55 +1000 beerOS (18059)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Installing Net instrumentation
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Finished instrumentation
+[08/09/14 19:03:55 +1000 beerOS (18059)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:03:58 +1000 beerOS (18059)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:03:58 +1000 beerOS (18059)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:05:08 +1000 beerOS (18231)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:05:08 +1000 beerOS (18231)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Environment: development
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : No known dispatcher detected.
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Application: development
+[08/09/14 19:05:08 +1000 beerOS (18231)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Installing Net instrumentation
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Finished instrumentation
+[08/09/14 19:05:08 +1000 beerOS (18231)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:05:10 +1000 beerOS (18231)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:05:10 +1000 beerOS (18231)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:15:22 +1000 beerOS (19482)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:15:22 +1000 beerOS (19482)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Environment: development
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : No known dispatcher detected.
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Application: development
+[08/09/14 19:15:22 +1000 beerOS (19482)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Installing Net instrumentation
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Finished instrumentation
+[08/09/14 19:15:22 +1000 beerOS (19482)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:15:26 +1000 beerOS (19482)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:15:26 +1000 beerOS (19482)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:15:37 +1000 beerOS (19542)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:15:37 +1000 beerOS (19542)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Environment: development
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : No known dispatcher detected.
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Application: development
+[08/09/14 19:15:37 +1000 beerOS (19542)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Installing Net instrumentation
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Finished instrumentation
+[08/09/14 19:15:37 +1000 beerOS (19542)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:15:39 +1000 beerOS (19542)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:15:39 +1000 beerOS (19542)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:15:59 +1000 beerOS (19616)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:15:59 +1000 beerOS (19616)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Environment: development
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : No known dispatcher detected.
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Application: development
+[08/09/14 19:15:59 +1000 beerOS (19616)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Installing Net instrumentation
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Finished instrumentation
+[08/09/14 19:15:59 +1000 beerOS (19616)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:21:37 +1000 beerOS (20315)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:21:37 +1000 beerOS (20315)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Environment: development
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : No known dispatcher detected.
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Application: development
+[08/09/14 19:21:37 +1000 beerOS (20315)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Installing Net instrumentation
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Finished instrumentation
+[08/09/14 19:21:37 +1000 beerOS (20315)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:21:41 +1000 beerOS (20338)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:21:41 +1000 beerOS (20338)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Environment: development
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : No known dispatcher detected.
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Application: development
+[08/09/14 19:21:41 +1000 beerOS (20338)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Installing Net instrumentation
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Finished instrumentation
+[08/09/14 19:21:41 +1000 beerOS (20338)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:21:45 +1000 beerOS (20338)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:21:45 +1000 beerOS (20338)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:22:08 +1000 beerOS (20415)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:22:08 +1000 beerOS (20415)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Environment: development
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : No known dispatcher detected.
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Application: development
+[08/09/14 19:22:08 +1000 beerOS (20415)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Installing Net instrumentation
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Finished instrumentation
+[08/09/14 19:22:08 +1000 beerOS (20415)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:22:10 +1000 beerOS (20415)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:22:10 +1000 beerOS (20415)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:47:46 +1000 beerOS (23536)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:47:46 +1000 beerOS (23536)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Environment: development
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : No known dispatcher detected.
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Application: development
+[08/09/14 19:47:46 +1000 beerOS (23536)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Installing Net instrumentation
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Finished instrumentation
+[08/09/14 19:47:46 +1000 beerOS (23536)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:47:49 +1000 beerOS (23536)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:47:49 +1000 beerOS (23536)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:52:52 +1000 beerOS (24165)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:52:52 +1000 beerOS (24165)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Environment: development
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : No known dispatcher detected.
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Application: development
+[08/09/14 19:52:52 +1000 beerOS (24165)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Installing Net instrumentation
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Finished instrumentation
+[08/09/14 19:52:52 +1000 beerOS (24165)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:52:58 +1000 beerOS (24165)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:52:58 +1000 beerOS (24165)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:53:26 +1000 beerOS (24259)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:53:26 +1000 beerOS (24259)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Environment: development
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : No known dispatcher detected.
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Application: development
+[08/09/14 19:53:26 +1000 beerOS (24259)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Installing Net instrumentation
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Finished instrumentation
+[08/09/14 19:53:26 +1000 beerOS (24259)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:53:28 +1000 beerOS (24259)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:53:28 +1000 beerOS (24259)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:53:39 +1000 beerOS (24308)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:53:39 +1000 beerOS (24308)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Environment: development
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : No known dispatcher detected.
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Application: development
+[08/09/14 19:53:39 +1000 beerOS (24308)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Installing Net instrumentation
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Finished instrumentation
+[08/09/14 19:53:39 +1000 beerOS (24308)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:53:43 +1000 beerOS (24308)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:53:43 +1000 beerOS (24308)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:54:44 +1000 beerOS (24457)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:54:44 +1000 beerOS (24457)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Environment: development
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : No known dispatcher detected.
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Application: development
+[08/09/14 19:54:44 +1000 beerOS (24457)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Installing Net instrumentation
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Finished instrumentation
+[08/09/14 19:54:44 +1000 beerOS (24457)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:54:48 +1000 beerOS (24457)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:54:48 +1000 beerOS (24457)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:55:15 +1000 beerOS (24547)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:55:15 +1000 beerOS (24547)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Environment: development
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : No known dispatcher detected.
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Application: development
+[08/09/14 19:55:15 +1000 beerOS (24547)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Installing Net instrumentation
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Finished instrumentation
+[08/09/14 19:55:15 +1000 beerOS (24547)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:55:19 +1000 beerOS (24547)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:55:19 +1000 beerOS (24547)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:56:25 +1000 beerOS (24718)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:56:25 +1000 beerOS (24718)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Environment: development
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : No known dispatcher detected.
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Application: development
+[08/09/14 19:56:25 +1000 beerOS (24718)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Installing Net instrumentation
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Finished instrumentation
+[08/09/14 19:56:25 +1000 beerOS (24718)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:56:29 +1000 beerOS (24718)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:56:29 +1000 beerOS (24718)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 19:57:40 +1000 beerOS (24891)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 19:57:40 +1000 beerOS (24891)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Environment: development
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : No known dispatcher detected.
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Application: development
+[08/09/14 19:57:40 +1000 beerOS (24891)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Installing deferred Rack instrumentation
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Installing Sinatra instrumentation
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Installing Net instrumentation
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Finished instrumentation
+[08/09/14 19:57:40 +1000 beerOS (24891)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 19:57:56 +1000 beerOS (24891)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 19:57:56 +1000 beerOS (24891)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:02:31 +1000 beerOS (25564)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:02:31 +1000 beerOS (25564)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Environment: development
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : No known dispatcher detected.
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Application: development
+[08/09/14 20:02:31 +1000 beerOS (25564)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Installing Net instrumentation
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Finished instrumentation
+[08/09/14 20:02:31 +1000 beerOS (25564)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:02:36 +1000 beerOS (25564)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:02:36 +1000 beerOS (25564)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:03:21 +1000 beerOS (25698)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:03:21 +1000 beerOS (25698)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Environment: development
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : No known dispatcher detected.
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Application: development
+[08/09/14 20:03:21 +1000 beerOS (25698)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Installing Net instrumentation
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Finished instrumentation
+[08/09/14 20:03:21 +1000 beerOS (25698)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:03:29 +1000 beerOS (25698)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:03:29 +1000 beerOS (25698)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:03:46 +1000 beerOS (25774)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:03:46 +1000 beerOS (25774)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Environment: development
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : No known dispatcher detected.
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Application: development
+[08/09/14 20:03:46 +1000 beerOS (25774)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Installing Net instrumentation
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Finished instrumentation
+[08/09/14 20:03:46 +1000 beerOS (25774)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:05:47 +1000 beerOS (26025)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:05:47 +1000 beerOS (26025)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Environment: development
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : No known dispatcher detected.
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Application: development
+[08/09/14 20:05:47 +1000 beerOS (26025)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Installing Net instrumentation
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Finished instrumentation
+[08/09/14 20:05:47 +1000 beerOS (26025)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:05:51 +1000 beerOS (26025)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:05:51 +1000 beerOS (26025)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:06:08 +1000 beerOS (26093)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:06:08 +1000 beerOS (26093)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Environment: development
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : No known dispatcher detected.
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Application: development
+[08/09/14 20:06:08 +1000 beerOS (26093)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Installing Net instrumentation
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Finished instrumentation
+[08/09/14 20:06:08 +1000 beerOS (26093)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:06:11 +1000 beerOS (26093)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:06:11 +1000 beerOS (26093)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:06:51 +1000 beerOS (26195)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:06:51 +1000 beerOS (26195)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Environment: development
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : No known dispatcher detected.
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Application: development
+[08/09/14 20:06:51 +1000 beerOS (26195)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Installing Net instrumentation
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Finished instrumentation
+[08/09/14 20:06:51 +1000 beerOS (26195)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:06:53 +1000 beerOS (26195)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:06:53 +1000 beerOS (26195)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:07:37 +1000 beerOS (26306)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:07:37 +1000 beerOS (26306)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Environment: development
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : No known dispatcher detected.
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Application: development
+[08/09/14 20:07:37 +1000 beerOS (26306)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Installing Net instrumentation
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Finished instrumentation
+[08/09/14 20:07:37 +1000 beerOS (26306)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:07:39 +1000 beerOS (26306)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:07:39 +1000 beerOS (26306)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:08:42 +1000 beerOS (26457)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:08:42 +1000 beerOS (26457)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Environment: development
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : No known dispatcher detected.
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Application: development
+[08/09/14 20:08:42 +1000 beerOS (26457)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Installing Net instrumentation
+[08/09/14 20:08:42 +1000 beerOS (26457)] INFO : Finished instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:09:09 +1000 beerOS (26526)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:09:09 +1000 beerOS (26526)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Environment: development
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : No known dispatcher detected.
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Application: development
+[08/09/14 20:09:09 +1000 beerOS (26526)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Installing Net instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Finished instrumentation
+[08/09/14 20:09:09 +1000 beerOS (26526)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:09:11 +1000 beerOS (26526)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:09:11 +1000 beerOS (26526)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:09:40 +1000 beerOS (26614)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:09:40 +1000 beerOS (26614)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Environment: development
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : No known dispatcher detected.
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Application: development
+[08/09/14 20:09:40 +1000 beerOS (26614)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Installing Net instrumentation
+[08/09/14 20:09:40 +1000 beerOS (26614)] INFO : Finished instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:09:59 +1000 beerOS (26662)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:09:59 +1000 beerOS (26662)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Environment: development
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : No known dispatcher detected.
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Application: development
+[08/09/14 20:09:59 +1000 beerOS (26662)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Installing Net instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Finished instrumentation
+[08/09/14 20:09:59 +1000 beerOS (26662)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:10:06 +1000 beerOS (26691)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:10:06 +1000 beerOS (26691)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Environment: development
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : No known dispatcher detected.
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Application: development
+[08/09/14 20:10:06 +1000 beerOS (26691)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Installing Net instrumentation
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Finished instrumentation
+[08/09/14 20:10:06 +1000 beerOS (26691)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:10:09 +1000 beerOS (26691)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:10:09 +1000 beerOS (26691)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:10:19 +1000 beerOS (26743)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:10:19 +1000 beerOS (26743)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Environment: development
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : No known dispatcher detected.
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Application: development
+[08/09/14 20:10:19 +1000 beerOS (26743)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Installing Net instrumentation
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Finished instrumentation
+[08/09/14 20:10:19 +1000 beerOS (26743)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:10:24 +1000 beerOS (26743)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:10:24 +1000 beerOS (26743)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:10:35 +1000 beerOS (26796)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:10:35 +1000 beerOS (26796)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Environment: development
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : No known dispatcher detected.
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Application: development
+[08/09/14 20:10:35 +1000 beerOS (26796)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Installing Net instrumentation
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Finished instrumentation
+[08/09/14 20:10:35 +1000 beerOS (26796)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:10:40 +1000 beerOS (26796)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:10:40 +1000 beerOS (26796)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:10:55 +1000 beerOS (26855)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:10:55 +1000 beerOS (26855)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Environment: development
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : No known dispatcher detected.
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Application: development
+[08/09/14 20:10:55 +1000 beerOS (26855)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Installing Net instrumentation
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Finished instrumentation
+[08/09/14 20:10:55 +1000 beerOS (26855)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:10:57 +1000 beerOS (26855)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[08/09/14 20:10:57 +1000 beerOS (26855)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector.newrelic.com:443: getaddrinfo: No address associated with hostname
+[08/09/14 20:10:57 +1000 beerOS (26855)] INFO : Will re-attempt in 60 seconds
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:11:05 +1000 beerOS (26898)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:11:05 +1000 beerOS (26898)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Environment: development
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : No known dispatcher detected.
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Application: development
+[08/09/14 20:11:05 +1000 beerOS (26898)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Installing Net instrumentation
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Finished instrumentation
+[08/09/14 20:11:05 +1000 beerOS (26898)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:11:11 +1000 beerOS (26898)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:11:11 +1000 beerOS (26898)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:11:32 +1000 beerOS (26973)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:11:32 +1000 beerOS (26973)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Environment: development
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : No known dispatcher detected.
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Application: development
+[08/09/14 20:11:32 +1000 beerOS (26973)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Installing Net instrumentation
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Finished instrumentation
+[08/09/14 20:11:32 +1000 beerOS (26973)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:11:35 +1000 beerOS (26973)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:11:35 +1000 beerOS (26973)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:12:15 +1000 beerOS (27090)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:12:15 +1000 beerOS (27090)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Environment: development
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : No known dispatcher detected.
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Application: development
+[08/09/14 20:12:15 +1000 beerOS (27090)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Installing Net instrumentation
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Finished instrumentation
+[08/09/14 20:12:15 +1000 beerOS (27090)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:12:18 +1000 beerOS (27090)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:12:18 +1000 beerOS (27090)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:12:59 +1000 beerOS (27207)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:12:59 +1000 beerOS (27207)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Environment: development
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : No known dispatcher detected.
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Application: development
+[08/09/14 20:12:59 +1000 beerOS (27207)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Installing Net instrumentation
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Finished instrumentation
+[08/09/14 20:12:59 +1000 beerOS (27207)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:13:02 +1000 beerOS (27207)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:13:02 +1000 beerOS (27207)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:14:52 +1000 beerOS (27467)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:14:52 +1000 beerOS (27467)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Environment: development
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : No known dispatcher detected.
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Application: development
+[08/09/14 20:14:52 +1000 beerOS (27467)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Installing Net instrumentation
+[08/09/14 20:14:52 +1000 beerOS (27467)] INFO : Finished instrumentation
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:15:46 +1000 beerOS (27591)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:15:46 +1000 beerOS (27591)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Environment: development
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : No known dispatcher detected.
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Application: development
+[08/09/14 20:15:46 +1000 beerOS (27591)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Installing Net instrumentation
+[08/09/14 20:15:46 +1000 beerOS (27591)] INFO : Finished instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:16:18 +1000 beerOS (27670)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:16:18 +1000 beerOS (27670)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Environment: development
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : No known dispatcher detected.
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Application: development
+[08/09/14 20:16:18 +1000 beerOS (27670)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Installing Net instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Finished instrumentation
+[08/09/14 20:16:18 +1000 beerOS (27670)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:16:22 +1000 beerOS (27670)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:16:22 +1000 beerOS (27670)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:17:57 +1000 beerOS (27902)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:17:57 +1000 beerOS (27902)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Environment: development
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : No known dispatcher detected.
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Application: development
+[08/09/14 20:17:57 +1000 beerOS (27902)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Installing Net instrumentation
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Finished instrumentation
+[08/09/14 20:17:57 +1000 beerOS (27902)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:17:59 +1000 beerOS (27902)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:17:59 +1000 beerOS (27902)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:18:21 +1000 beerOS (27976)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:18:21 +1000 beerOS (27976)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Environment: development
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : No known dispatcher detected.
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Application: development
+[08/09/14 20:18:21 +1000 beerOS (27976)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Installing Net instrumentation
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Finished instrumentation
+[08/09/14 20:18:21 +1000 beerOS (27976)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:18:26 +1000 beerOS (27976)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:18:26 +1000 beerOS (27976)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:19:42 +1000 beerOS (28167)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:19:42 +1000 beerOS (28167)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Environment: development
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : No known dispatcher detected.
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Application: development
+[08/09/14 20:19:42 +1000 beerOS (28167)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Installing Net instrumentation
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Finished instrumentation
+[08/09/14 20:19:42 +1000 beerOS (28167)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:19:47 +1000 beerOS (28167)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:19:47 +1000 beerOS (28167)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:22:33 +1000 beerOS (28579)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:22:33 +1000 beerOS (28579)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Environment: development
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : No known dispatcher detected.
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Application: development
+[08/09/14 20:22:33 +1000 beerOS (28579)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Installing Net instrumentation
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Finished instrumentation
+[08/09/14 20:22:33 +1000 beerOS (28579)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:22:37 +1000 beerOS (28579)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:22:37 +1000 beerOS (28579)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:22:46 +1000 beerOS (28629)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:22:46 +1000 beerOS (28629)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Environment: development
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : No known dispatcher detected.
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Application: development
+[08/09/14 20:22:46 +1000 beerOS (28629)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Installing Net instrumentation
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Finished instrumentation
+[08/09/14 20:22:46 +1000 beerOS (28629)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:22:49 +1000 beerOS (28629)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:22:49 +1000 beerOS (28629)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:23:32 +1000 beerOS (28741)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:23:32 +1000 beerOS (28741)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Environment: development
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : No known dispatcher detected.
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Application: development
+[08/09/14 20:23:32 +1000 beerOS (28741)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Installing Net instrumentation
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Finished instrumentation
+[08/09/14 20:23:32 +1000 beerOS (28741)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:23:41 +1000 beerOS (28774)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:23:41 +1000 beerOS (28774)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Environment: development
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : No known dispatcher detected.
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Application: development
+[08/09/14 20:23:41 +1000 beerOS (28774)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Installing Net instrumentation
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Finished instrumentation
+[08/09/14 20:23:41 +1000 beerOS (28774)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:55:36 +1000 beerOS (28774)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:55:36 +1000 beerOS (28774)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:55:54 +1000 beerOS (32737)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:55:54 +1000 beerOS (32737)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Environment: development
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : No known dispatcher detected.
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Application: development
+[08/09/14 20:55:54 +1000 beerOS (32737)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Installing Net instrumentation
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Finished instrumentation
+[08/09/14 20:55:54 +1000 beerOS (32737)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:55:56 +1000 beerOS (32737)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:55:56 +1000 beerOS (32737)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:59:13 +1000 beerOS (700)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:59:13 +1000 beerOS (700)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Environment: development
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : No known dispatcher detected.
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Application: development
+[08/09/14 20:59:13 +1000 beerOS (700)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Installing Net instrumentation
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Finished instrumentation
+[08/09/14 20:59:13 +1000 beerOS (700)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:59:18 +1000 beerOS (700)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:59:18 +1000 beerOS (700)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:59:33 +1000 beerOS (766)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:59:33 +1000 beerOS (766)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Environment: development
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : No known dispatcher detected.
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Application: development
+[08/09/14 20:59:33 +1000 beerOS (766)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Installing Net instrumentation
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Finished instrumentation
+[08/09/14 20:59:33 +1000 beerOS (766)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:59:39 +1000 beerOS (766)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:59:39 +1000 beerOS (766)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 20:59:51 +1000 beerOS (827)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 20:59:51 +1000 beerOS (827)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Environment: development
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : No known dispatcher detected.
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Application: development
+[08/09/14 20:59:51 +1000 beerOS (827)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Installing deferred Rack instrumentation
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Installing Sinatra instrumentation
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Installing Net instrumentation
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Finished instrumentation
+[08/09/14 20:59:51 +1000 beerOS (827)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 20:59:57 +1000 beerOS (827)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 20:59:57 +1000 beerOS (827)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 21:00:25 +1000 beerOS (932)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 21:00:25 +1000 beerOS (932)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Environment: development
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : No known dispatcher detected.
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Application: development
+[08/09/14 21:00:25 +1000 beerOS (932)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Installing deferred Rack instrumentation
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Installing Sinatra instrumentation
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Installing Net instrumentation
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Finished instrumentation
+[08/09/14 21:00:25 +1000 beerOS (932)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 21:00:30 +1000 beerOS (932)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 21:00:30 +1000 beerOS (932)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 21:00:59 +1000 beerOS (1028)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 21:00:59 +1000 beerOS (1028)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Environment: development
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : No known dispatcher detected.
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Application: development
+[08/09/14 21:00:59 +1000 beerOS (1028)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Installing deferred Rack instrumentation
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Installing Sinatra instrumentation
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Installing Net instrumentation
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Finished instrumentation
+[08/09/14 21:00:59 +1000 beerOS (1028)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 21:01:17 +1000 beerOS (1077)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 21:01:17 +1000 beerOS (1077)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Environment: development
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : No known dispatcher detected.
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Application: development
+[08/09/14 21:01:17 +1000 beerOS (1077)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Installing deferred Rack instrumentation
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Installing Sinatra instrumentation
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Installing Net instrumentation
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Finished instrumentation
+[08/09/14 21:01:17 +1000 beerOS (1077)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 21:03:59 +1000 beerOS (1562)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 21:03:59 +1000 beerOS (1562)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Environment: development
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : No known dispatcher detected.
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Application: development
+[08/09/14 21:03:59 +1000 beerOS (1562)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Installing deferred Rack instrumentation
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Installing Sinatra instrumentation
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Installing Net instrumentation
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Finished instrumentation
+[08/09/14 21:03:59 +1000 beerOS (1562)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 21:04:30 +1000 beerOS (1562)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 21:04:30 +1000 beerOS (1562)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Starting the New Relic agent in "development" environment.
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/09/14 21:04:46 +1000 beerOS (1723)] WARN : No configuration file found. Working directory = /home/stu/apps/mcgolf
+[08/09/14 21:04:46 +1000 beerOS (1723)] WARN : Looked in these locations (based on defaults): /home/stu/apps/mcgolf/config/newrelic.yml, /home/stu/apps/mcgolf/newrelic.yml, /home/stu/.newrelic/newrelic.yml, /home/stu/newrelic.yml
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Environment: development
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : No known dispatcher detected.
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Application: development
+[08/09/14 21:04:46 +1000 beerOS (1723)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Installing deferred Rack instrumentation
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Installing Rack::Builder middleware instrumentation
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Installing Sinatra instrumentation
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Installing Net instrumentation
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Finished instrumentation
+[08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Doing deferred dependency-detection before Rack startup
+[08/09/14 21:04:49 +1000 beerOS (1723)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/09/14 21:04:49 +1000 beerOS (1723)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

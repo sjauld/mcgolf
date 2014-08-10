@@ -1,6 +1,7 @@
 %h2 Add a new course to the database
-%form
+%form{:name => "NewCourse", :id => "NewCourse", :action => "/newcourse", :method => "post"}
 	%fieldset
+		%input{:type => "hidden", :name => "id", :value => @id}
 		%table
 			%thead
 				%tr
@@ -9,4 +10,9 @@
 			%tbody
 				%tr
 					%th ID
-					%td @id
+					%td= @id
+				%tr
+					%th Course name
+					%td 
+						%input{:type => "text", :name => "CourseName", :value => "Enter course"}
+	%button GOGOGO!
