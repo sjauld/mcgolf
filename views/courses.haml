@@ -1,0 +1,14 @@
+%h2 Course List
+%table
+	%thead
+		%tr
+			%th ID
+			%th Course Name
+	%tbody
+		- @courses.each do |c|
+			%tr
+				%td= c["id"]
+				%td
+					%a{:href => "/courses/#{c["id"]}"}= c["CourseName"]
+%h2
+	%a{:href => "/newcourse"} New Course

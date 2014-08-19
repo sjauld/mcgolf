@@ -1,0 +1,13 @@
+%h2= @info["CourseName"]
+%table
+	%thead
+		%tr
+			%th Parameter
+			%th Value
+	%tbody
+		- @info.each do |j|
+			%tr
+				%td= j[0]
+				%td= j[1]
+%h2
+	%a{:href => "/newcourse"} New Course
