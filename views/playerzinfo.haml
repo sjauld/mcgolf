@@ -1,0 +1,11 @@
+%h2= "#{@info["PlayerName"]}'s details!"
+%table
+	%thead
+		%tr
+			%th Parameter
+			%th Value
+	%tbody
+		- @info.each do |p|
+			%tr
+				%th= p[0]
+				%th= p[1]

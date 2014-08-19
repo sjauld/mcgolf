@@ -7,9 +7,11 @@
     %meta{content: "", name: "description"}/
     %meta{content: "width=device-width, initial-scale=1", name: "viewport"}/
     / Place favicon.ico and apple-touch-icon(s) in the root directory
-    %link{href: "/css/normalize.css", rel: "stylesheet"}/
-    %link{href: "/css/main.css", rel: "stylesheet"}/
-    %script{src: "/js/vendor/modernizr-2.8.0.min.js"}
+    / I think this stuff relates to boilerplate...
+    /%link{href: "/css/normalize.css", rel: "stylesheet"}/
+    /%link{href: "/css/main.css", rel: "stylesheet"}/
+    /%script{src: "/js/vendor/modernizr-2.8.0.min.js"}
+    %script{src: "/js/sorttable.js"}
   %body
     /[if lt IE 8]
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -23,12 +25,21 @@
         %p
           %a{:href => "/"} There's no place like home
           |
-          %a{:href => "/courses"} See the courses
+          %a{:href => "/result"} Add a result
+          |
+          %a{:href => "/newplayer"} Add a player
+          |
+          %a{:href => "/updato"} Update hcps
+          |
+          %a{:href => "/updatop"} Update points
+          / |
+          / %a{:href => "/courses"} See the courses
     %script{src: "//ajax.googleapis.com/ajax/libs/jquery//jquery.min.js"}
     :javascript
       window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')
-    %script{src: "/js/plugins.js"}
-    %script{src: "/js/main.js"}
+    / More boilerplate stuff... 
+    /%script{src: "/js/plugins.js"}
+    /%script{src: "/js/main.js"}
     / Google Analytics: change UA-XXXXX-X to be your site's ID.
     :javascript
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=

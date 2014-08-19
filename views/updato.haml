@@ -1,0 +1,17 @@
+%h2 Handicap update matromatron
+%form{:name => "UpdateHcps", :id => "UpdateHcps", :action => "/updato", :method => "post"}
+	%fieldset
+		%table{:class => "sortable"}
+			%thead
+				%tr
+					%th Name
+					%th Current handicap
+					%th Updated handicap
+			%tbody
+				- @info.each do |p|
+					%tr
+						%th= p["PlayerName"]
+						%td= p["Handicap"]
+						%td
+							%input{:name => "#{p["id"]}", :value => "#{p["Handicap"]}"}
+		%button GOGOGO!!!

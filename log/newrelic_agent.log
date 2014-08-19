@@ -1928,3 +1928,1420 @@
 [08/09/14 21:04:46 +1000 beerOS (1723)] INFO : Doing deferred dependency-detection before Rack startup
 [08/09/14 21:04:49 +1000 beerOS (1723)] ERROR : Invalid license key, please contact support@newrelic.com
 [08/09/14 21:04:49 +1000 beerOS (1723)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Environment: development
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : No known dispatcher detected.
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Application: development
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Installing Net instrumentation
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Finished instrumentation
+[08/14/14 18:20:27 +1000 stuartauld.local (5043)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:20:29 +1000 stuartauld.local (5043)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:20:29 +1000 stuartauld.local (5043)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Environment: development
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : No known dispatcher detected.
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Application: development
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Installing Net instrumentation
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Finished instrumentation
+[08/14/14 18:22:07 +1000 stuartauld.local (5262)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Environment: development
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : No known dispatcher detected.
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Application: development
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Installing Net instrumentation
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Finished instrumentation
+[08/14/14 18:22:48 +1000 stuartauld.local (5365)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Environment: development
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : No known dispatcher detected.
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Application: development
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Installing Net instrumentation
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Finished instrumentation
+[08/14/14 18:24:32 +1000 stuartauld.local (5592)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:24:37 +1000 stuartauld.local (5592)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:24:37 +1000 stuartauld.local (5592)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Environment: development
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : No known dispatcher detected.
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Application: development
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Installing Net instrumentation
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Finished instrumentation
+[08/14/14 18:25:33 +1000 stuartauld.local (5740)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:25:35 +1000 stuartauld.local (5740)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:25:35 +1000 stuartauld.local (5740)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Environment: development
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : No known dispatcher detected.
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Application: development
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Installing Net instrumentation
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Finished instrumentation
+[08/14/14 18:25:58 +1000 stuartauld.local (5804)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:26:01 +1000 stuartauld.local (5804)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:26:01 +1000 stuartauld.local (5804)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Environment: development
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : No known dispatcher detected.
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Application: development
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Installing Net instrumentation
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Finished instrumentation
+[08/14/14 18:26:15 +1000 stuartauld.local (5858)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Environment: development
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : No known dispatcher detected.
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Application: development
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Installing Net instrumentation
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Finished instrumentation
+[08/14/14 18:26:17 +1000 stuartauld.local (5873)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:26:21 +1000 stuartauld.local (5873)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:26:21 +1000 stuartauld.local (5873)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Environment: development
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : No known dispatcher detected.
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Application: development
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Installing Net instrumentation
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Finished instrumentation
+[08/14/14 18:27:42 +1000 stuartauld.local (6057)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:27:46 +1000 stuartauld.local (6057)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:27:46 +1000 stuartauld.local (6057)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Environment: development
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : No known dispatcher detected.
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Application: development
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Installing Net instrumentation
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Finished instrumentation
+[08/14/14 18:27:51 +1000 stuartauld.local (6097)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Environment: development
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : No known dispatcher detected.
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Application: development
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Installing Net instrumentation
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Finished instrumentation
+[08/14/14 18:27:53 +1000 stuartauld.local (6104)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:27:56 +1000 stuartauld.local (6104)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:27:56 +1000 stuartauld.local (6104)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Environment: development
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : No known dispatcher detected.
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Application: development
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Installing Net instrumentation
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Finished instrumentation
+[08/14/14 18:28:42 +1000 stuartauld.local (6216)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:28:45 +1000 stuartauld.local (6216)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:28:45 +1000 stuartauld.local (6216)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Environment: development
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : No known dispatcher detected.
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Application: development
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Installing Net instrumentation
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Finished instrumentation
+[08/14/14 18:29:59 +1000 stuartauld.local (6385)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:30:01 +1000 stuartauld.local (6385)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:30:01 +1000 stuartauld.local (6385)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Environment: development
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : No known dispatcher detected.
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Application: development
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Installing Net instrumentation
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Finished instrumentation
+[08/14/14 18:31:24 +1000 stuartauld.local (6569)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:31:29 +1000 stuartauld.local (6569)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:31:29 +1000 stuartauld.local (6569)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Environment: development
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : No known dispatcher detected.
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Application: development
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Installing Net instrumentation
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Finished instrumentation
+[08/14/14 18:36:07 +1000 stuartauld.local (7208)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:36:11 +1000 stuartauld.local (7208)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:36:11 +1000 stuartauld.local (7208)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] INFO : Environment: development
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] INFO : No known dispatcher detected.
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] INFO : Application: development
+[08/14/14 18:36:23 +1000 stuartauld.local (7265)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Installing Net instrumentation
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Finished instrumentation
+[08/14/14 18:36:24 +1000 stuartauld.local (7265)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:36:25 +1000 stuartauld.local (7265)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:36:25 +1000 stuartauld.local (7265)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Environment: development
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : No known dispatcher detected.
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Application: development
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Installing Net instrumentation
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Finished instrumentation
+[08/14/14 18:37:51 +1000 stuartauld.local (7471)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:37:53 +1000 stuartauld.local (7471)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:37:53 +1000 stuartauld.local (7471)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Environment: development
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : No known dispatcher detected.
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Application: development
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Installing Net instrumentation
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Finished instrumentation
+[08/14/14 18:39:28 +1000 stuartauld.local (7695)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:39:30 +1000 stuartauld.local (7695)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:39:30 +1000 stuartauld.local (7695)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Environment: development
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : No known dispatcher detected.
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Application: development
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Installing Net instrumentation
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Finished instrumentation
+[08/14/14 18:40:13 +1000 stuartauld.local (7799)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:40:15 +1000 stuartauld.local (7799)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:40:15 +1000 stuartauld.local (7799)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Environment: development
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : No known dispatcher detected.
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Application: development
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Installing Net instrumentation
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Finished instrumentation
+[08/14/14 18:41:25 +1000 stuartauld.local (7967)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:41:27 +1000 stuartauld.local (7967)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:41:27 +1000 stuartauld.local (7967)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Environment: development
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : No known dispatcher detected.
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Application: development
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Installing Net instrumentation
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Finished instrumentation
+[08/14/14 18:42:26 +1000 stuartauld.local (8106)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:42:30 +1000 stuartauld.local (8106)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:42:30 +1000 stuartauld.local (8106)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Environment: development
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : No known dispatcher detected.
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Application: development
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Installing Net instrumentation
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Finished instrumentation
+[08/14/14 18:42:48 +1000 stuartauld.local (8173)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Environment: development
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : No known dispatcher detected.
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Application: development
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Installing Net instrumentation
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Finished instrumentation
+[08/14/14 18:42:52 +1000 stuartauld.local (8193)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Environment: development
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : No known dispatcher detected.
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Application: development
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Installing Net instrumentation
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Finished instrumentation
+[08/14/14 18:42:55 +1000 stuartauld.local (8210)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:42:57 +1000 stuartauld.local (8210)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:42:57 +1000 stuartauld.local (8210)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Environment: development
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : No known dispatcher detected.
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Application: development
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Installing Net instrumentation
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Finished instrumentation
+[08/14/14 18:43:18 +1000 stuartauld.local (8278)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:43:23 +1000 stuartauld.local (8278)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:43:23 +1000 stuartauld.local (8278)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Environment: development
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : No known dispatcher detected.
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Application: development
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Installing Net instrumentation
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Finished instrumentation
+[08/14/14 18:44:05 +1000 stuartauld.local (8395)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Environment: development
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : No known dispatcher detected.
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Application: development
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Installing Net instrumentation
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Finished instrumentation
+[08/14/14 18:44:08 +1000 stuartauld.local (8414)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Environment: development
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : No known dispatcher detected.
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Application: development
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Installing Net instrumentation
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Finished instrumentation
+[08/14/14 18:44:10 +1000 stuartauld.local (8431)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:44:12 +1000 stuartauld.local (8431)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:44:12 +1000 stuartauld.local (8431)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Environment: development
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : No known dispatcher detected.
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Application: development
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Installing Net instrumentation
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Finished instrumentation
+[08/14/14 18:44:53 +1000 stuartauld.local (8543)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Environment: development
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : No known dispatcher detected.
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Application: development
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Installing Net instrumentation
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Finished instrumentation
+[08/14/14 18:45:04 +1000 stuartauld.local (8584)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Environment: development
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : No known dispatcher detected.
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Application: development
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Installing Net instrumentation
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Finished instrumentation
+[08/14/14 18:46:27 +1000 stuartauld.local (8761)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:46:29 +1000 stuartauld.local (8761)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:46:29 +1000 stuartauld.local (8761)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Environment: development
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : No known dispatcher detected.
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Application: development
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Installing Net instrumentation
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Finished instrumentation
+[08/14/14 18:48:09 +1000 stuartauld.local (8991)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:48:11 +1000 stuartauld.local (8991)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:48:11 +1000 stuartauld.local (8991)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Environment: development
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : No known dispatcher detected.
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Application: development
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Installing Net instrumentation
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:55:16 +1000 stuartauld.local (9866)] INFO : Finished instrumentation
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Environment: development
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : No known dispatcher detected.
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Application: development
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Installing Net instrumentation
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:56:01 +1000 stuartauld.local (9976)] INFO : Finished instrumentation
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Environment: development
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : No known dispatcher detected.
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Application: development
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Installing Net instrumentation
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:56:29 +1000 stuartauld.local (10054)] INFO : Finished instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Environment: development
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : No known dispatcher detected.
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Application: development
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Installing Net instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Finished instrumentation
+[08/14/14 18:56:48 +1000 stuartauld.local (10114)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Environment: development
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : No known dispatcher detected.
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Application: development
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Installing Net instrumentation
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Finished instrumentation
+[08/14/14 18:57:00 +1000 stuartauld.local (10152)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:57:04 +1000 stuartauld.local (10152)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:57:04 +1000 stuartauld.local (10152)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Environment: development
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : No known dispatcher detected.
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Application: development
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Installing Net instrumentation
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Finished instrumentation
+[08/14/14 18:57:23 +1000 stuartauld.local (10222)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 18:57:29 +1000 stuartauld.local (10222)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 18:57:29 +1000 stuartauld.local (10222)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Environment: development
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : No known dispatcher detected.
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Application: development
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Installing Net instrumentation
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Installing Sinatra instrumentation
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Installing deferred Rack instrumentation
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Finished instrumentation
+[08/14/14 18:58:29 +1000 stuartauld.local (10405)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] INFO : Environment: development
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] INFO : No known dispatcher detected.
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] INFO : Application: development
+[08/14/14 19:00:49 +1000 stuartauld.local (10712)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Installing Net instrumentation
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Finished instrumentation
+[08/14/14 19:00:50 +1000 stuartauld.local (10712)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:00:52 +1000 stuartauld.local (10712)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:00:52 +1000 stuartauld.local (10712)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Environment: development
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : No known dispatcher detected.
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Application: development
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Installing Net instrumentation
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Finished instrumentation
+[08/14/14 19:05:06 +1000 stuartauld.local (11243)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Environment: development
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : No known dispatcher detected.
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Application: development
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Installing Net instrumentation
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Finished instrumentation
+[08/14/14 19:05:49 +1000 stuartauld.local (11354)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:05:52 +1000 stuartauld.local (11354)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:05:52 +1000 stuartauld.local (11354)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Environment: development
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : No known dispatcher detected.
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Application: development
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Installing Net instrumentation
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Finished instrumentation
+[08/14/14 19:06:13 +1000 stuartauld.local (11433)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:06:15 +1000 stuartauld.local (11433)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:06:15 +1000 stuartauld.local (11433)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Environment: development
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : No known dispatcher detected.
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Application: development
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Installing Net instrumentation
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Finished instrumentation
+[08/14/14 19:06:30 +1000 stuartauld.local (11497)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:06:33 +1000 stuartauld.local (11497)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:06:33 +1000 stuartauld.local (11497)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Environment: development
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : No known dispatcher detected.
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Application: development
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Installing Net instrumentation
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Finished instrumentation
+[08/14/14 19:06:47 +1000 stuartauld.local (11553)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:06:50 +1000 stuartauld.local (11553)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:06:50 +1000 stuartauld.local (11553)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Environment: development
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : No known dispatcher detected.
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Application: development
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Installing Net instrumentation
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Finished instrumentation
+[08/14/14 19:09:23 +1000 stuartauld.local (11896)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:09:42 +1000 stuartauld.local (11896)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:09:42 +1000 stuartauld.local (11896)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Environment: development
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : No known dispatcher detected.
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Application: development
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Installing Net instrumentation
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Finished instrumentation
+[08/14/14 19:18:35 +1000 stuartauld.local (13041)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:18:39 +1000 stuartauld.local (13041)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:18:39 +1000 stuartauld.local (13041)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Environment: development
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : No known dispatcher detected.
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Application: development
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Installing Net instrumentation
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Finished instrumentation
+[08/14/14 19:20:15 +1000 stuartauld.local (13275)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:20:19 +1000 stuartauld.local (13275)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:20:19 +1000 stuartauld.local (13275)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Environment: development
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : No known dispatcher detected.
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Application: development
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Installing Net instrumentation
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Finished instrumentation
+[08/14/14 19:21:53 +1000 stuartauld.local (13502)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Environment: development
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : No known dispatcher detected.
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Application: development
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Installing Net instrumentation
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Finished instrumentation
+[08/14/14 19:22:11 +1000 stuartauld.local (13551)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:22:12 +1000 stuartauld.local (13551)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:22:12 +1000 stuartauld.local (13551)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Environment: development
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : No known dispatcher detected.
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Application: development
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Installing Net instrumentation
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Finished instrumentation
+[08/14/14 19:23:07 +1000 stuartauld.local (13688)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:23:18 +1000 stuartauld.local (13688)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:23:18 +1000 stuartauld.local (13688)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Environment: development
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : No known dispatcher detected.
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Application: development
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Installing Net instrumentation
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Finished instrumentation
+[08/14/14 19:26:30 +1000 stuartauld.local (14130)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Environment: development
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : No known dispatcher detected.
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Application: development
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Installing Net instrumentation
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Finished instrumentation
+[08/14/14 19:27:43 +1000 stuartauld.local (14291)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Environment: development
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : No known dispatcher detected.
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Application: development
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Installing Net instrumentation
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Finished instrumentation
+[08/14/14 19:28:23 +1000 stuartauld.local (14391)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:28:30 +1000 stuartauld.local (14391)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:28:30 +1000 stuartauld.local (14391)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Environment: development
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : No known dispatcher detected.
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Application: development
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Installing Net instrumentation
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Finished instrumentation
+[08/14/14 19:30:09 +1000 stuartauld.local (14637)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Environment: development
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : No known dispatcher detected.
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Application: development
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Installing Net instrumentation
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Finished instrumentation
+[08/14/14 19:30:12 +1000 stuartauld.local (14654)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Environment: development
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : No known dispatcher detected.
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Application: development
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Installing Net instrumentation
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Finished instrumentation
+[08/14/14 19:30:41 +1000 stuartauld.local (14721)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:30:48 +1000 stuartauld.local (14721)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:30:48 +1000 stuartauld.local (14721)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Environment: development
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : No known dispatcher detected.
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Application: development
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Installing Net instrumentation
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Finished instrumentation
+[08/14/14 19:39:29 +1000 stuartauld.local (15796)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:39:33 +1000 stuartauld.local (15796)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:39:33 +1000 stuartauld.local (15796)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Environment: development
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : No known dispatcher detected.
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Application: development
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Installing Net instrumentation
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Finished instrumentation
+[08/14/14 19:42:47 +1000 stuartauld.local (16216)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Environment: development
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : No known dispatcher detected.
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Application: development
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Installing Net instrumentation
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Finished instrumentation
+[08/14/14 19:44:37 +1000 stuartauld.local (16458)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Environment: development
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : No known dispatcher detected.
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Application: development
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Installing Net instrumentation
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Finished instrumentation
+[08/14/14 19:44:41 +1000 stuartauld.local (16477)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:44:44 +1000 stuartauld.local (16477)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:44:44 +1000 stuartauld.local (16477)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Environment: development
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : No known dispatcher detected.
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Application: development
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Installing Net instrumentation
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Finished instrumentation
+[08/14/14 19:45:14 +1000 stuartauld.local (16563)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 19:45:17 +1000 stuartauld.local (16563)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 19:45:17 +1000 stuartauld.local (16563)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Environment: development
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : No known dispatcher detected.
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Application: development
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Installing Net instrumentation
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Installing Sinatra instrumentation
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Installing deferred Rack instrumentation
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Finished instrumentation
+[08/14/14 19:51:58 +1000 stuartauld.local (17403)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Environment: development
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : No known dispatcher detected.
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Application: development
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Installing Net instrumentation
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Finished instrumentation
+[08/14/14 20:01:14 +1000 stuartauld.local (18542)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Environment: development
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : No known dispatcher detected.
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Application: development
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Installing Net instrumentation
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Finished instrumentation
+[08/14/14 20:01:29 +1000 stuartauld.local (18589)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Environment: development
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : No known dispatcher detected.
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Application: development
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Installing Net instrumentation
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Finished instrumentation
+[08/14/14 20:03:46 +1000 stuartauld.local (18893)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Environment: development
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : No known dispatcher detected.
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Application: development
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Installing Net instrumentation
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Finished instrumentation
+[08/14/14 20:08:19 +1000 stuartauld.local (19452)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:09:06 +1000 stuartauld.local (19452)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:09:06 +1000 stuartauld.local (19452)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Environment: development
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : No known dispatcher detected.
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Application: development
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Installing Net instrumentation
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Finished instrumentation
+[08/14/14 20:09:29 +1000 stuartauld.local (19608)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:09:31 +1000 stuartauld.local (19608)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:09:31 +1000 stuartauld.local (19608)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] INFO : Environment: development
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] INFO : No known dispatcher detected.
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] INFO : Application: development
+[08/14/14 20:16:06 +1000 stuartauld.local (20433)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Installing Net instrumentation
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Finished instrumentation
+[08/14/14 20:16:07 +1000 stuartauld.local (20433)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:16:10 +1000 stuartauld.local (20433)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:16:10 +1000 stuartauld.local (20433)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Environment: development
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : No known dispatcher detected.
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Application: development
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Installing Net instrumentation
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Finished instrumentation
+[08/14/14 20:18:30 +1000 stuartauld.local (20745)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:18:35 +1000 stuartauld.local (20745)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:18:35 +1000 stuartauld.local (20745)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Environment: development
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : No known dispatcher detected.
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Application: development
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Installing Net instrumentation
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Finished instrumentation
+[08/14/14 20:20:51 +1000 stuartauld.local (21050)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:20:54 +1000 stuartauld.local (21050)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:20:54 +1000 stuartauld.local (21050)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Environment: development
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : No known dispatcher detected.
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Application: development
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Installing Net instrumentation
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Finished instrumentation
+[08/14/14 20:21:25 +1000 stuartauld.local (21140)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:21:27 +1000 stuartauld.local (21140)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:21:27 +1000 stuartauld.local (21140)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Environment: development
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : No known dispatcher detected.
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Application: development
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Installing Net instrumentation
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Finished instrumentation
+[08/14/14 20:22:46 +1000 stuartauld.local (21316)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:22:49 +1000 stuartauld.local (21316)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:22:49 +1000 stuartauld.local (21316)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Environment: development
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : No known dispatcher detected.
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Application: development
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Installing Net instrumentation
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Finished instrumentation
+[08/14/14 20:23:47 +1000 stuartauld.local (21458)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:23:50 +1000 stuartauld.local (21458)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:23:50 +1000 stuartauld.local (21458)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Environment: development
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : No known dispatcher detected.
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Application: development
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Installing Net instrumentation
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Finished instrumentation
+[08/14/14 20:26:13 +1000 stuartauld.local (21775)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:26:16 +1000 stuartauld.local (21775)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:26:16 +1000 stuartauld.local (21775)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Environment: development
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : No known dispatcher detected.
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Application: development
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Installing Net instrumentation
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Finished instrumentation
+[08/14/14 20:29:56 +1000 stuartauld.local (22240)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:30:01 +1000 stuartauld.local (22240)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:30:01 +1000 stuartauld.local (22240)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Environment: development
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : No known dispatcher detected.
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Application: development
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Installing Net instrumentation
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Finished instrumentation
+[08/14/14 20:30:41 +1000 stuartauld.local (22353)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:30:46 +1000 stuartauld.local (22353)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:30:46 +1000 stuartauld.local (22353)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Environment: development
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : No known dispatcher detected.
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Application: development
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Installing Net instrumentation
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Finished instrumentation
+[08/14/14 20:31:11 +1000 stuartauld.local (22429)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:31:13 +1000 stuartauld.local (22429)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:31:13 +1000 stuartauld.local (22429)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Environment: development
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : No known dispatcher detected.
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Application: development
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Installing Net instrumentation
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Finished instrumentation
+[08/14/14 20:31:43 +1000 stuartauld.local (22512)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:31:49 +1000 stuartauld.local (22512)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:31:49 +1000 stuartauld.local (22512)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Environment: development
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : No known dispatcher detected.
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Application: development
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Installing Net instrumentation
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Finished instrumentation
+[08/14/14 20:32:12 +1000 stuartauld.local (22583)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:32:13 +1000 stuartauld.local (22583)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:32:13 +1000 stuartauld.local (22583)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Environment: development
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : No known dispatcher detected.
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Application: development
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Installing Net instrumentation
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Finished instrumentation
+[08/14/14 20:32:45 +1000 stuartauld.local (22666)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:32:47 +1000 stuartauld.local (22666)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:32:47 +1000 stuartauld.local (22666)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Environment: development
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : No known dispatcher detected.
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Application: development
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Installing Net instrumentation
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Finished instrumentation
+[08/14/14 20:36:41 +1000 stuartauld.local (23152)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:36:44 +1000 stuartauld.local (23152)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:36:44 +1000 stuartauld.local (23152)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Environment: development
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : No known dispatcher detected.
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Application: development
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Installing Net instrumentation
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Finished instrumentation
+[08/14/14 20:45:47 +1000 stuartauld.local (24272)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:45:49 +1000 stuartauld.local (24272)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:45:49 +1000 stuartauld.local (24272)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Environment: development
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : No known dispatcher detected.
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Application: development
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Installing Net instrumentation
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Finished instrumentation
+[08/14/14 20:46:06 +1000 stuartauld.local (24326)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:46:08 +1000 stuartauld.local (24326)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:46:08 +1000 stuartauld.local (24326)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Environment: development
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : No known dispatcher detected.
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Application: development
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Installing Net instrumentation
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Finished instrumentation
+[08/14/14 20:47:19 +1000 stuartauld.local (24497)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Environment: development
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : No known dispatcher detected.
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Application: development
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Installing Net instrumentation
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Finished instrumentation
+[08/14/14 20:48:43 +1000 stuartauld.local (24685)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Environment: development
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : No known dispatcher detected.
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Application: development
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Installing Net instrumentation
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Finished instrumentation
+[08/14/14 20:50:00 +1000 stuartauld.local (24861)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Environment: development
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : No known dispatcher detected.
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Application: development
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Installing Net instrumentation
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Finished instrumentation
+[08/14/14 20:50:32 +1000 stuartauld.local (24935)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 20:50:33 +1000 stuartauld.local (24935)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 20:50:33 +1000 stuartauld.local (24935)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Environment: development
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : No known dispatcher detected.
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Application: development
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Installing Net instrumentation
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Installing Sinatra instrumentation
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Installing deferred Rack instrumentation
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Finished instrumentation
+[08/14/14 20:59:32 +1000 stuartauld.local (26077)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Environment: development
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : No known dispatcher detected.
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Application: development
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Installing Net instrumentation
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Installing Sinatra instrumentation
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Installing deferred Rack instrumentation
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Finished instrumentation
+[08/14/14 21:00:48 +1000 stuartauld.local (26250)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Environment: development
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : No known dispatcher detected.
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Application: development
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Installing Net instrumentation
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Installing Sinatra instrumentation
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Installing deferred Rack instrumentation
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Finished instrumentation
+[08/14/14 21:00:55 +1000 stuartauld.local (26283)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Environment: development
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : No known dispatcher detected.
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Application: development
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Installing Net instrumentation
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Installing Sinatra instrumentation
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Installing deferred Rack instrumentation
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Finished instrumentation
+[08/14/14 21:01:03 +1000 stuartauld.local (26318)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Starting the New Relic agent in "development" environment.
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] WARN : No configuration file found. Working directory = /Users/Auld/apps/mcgolf
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] WARN : Looked in these locations (based on defaults): /Users/Auld/apps/mcgolf/config/newrelic.yml, /Users/Auld/apps/mcgolf/newrelic.yml, /Users/Auld/.newrelic/newrelic.yml, /Users/Auld/newrelic.yml
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Environment: development
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : No known dispatcher detected.
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Application: development
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Installing Net instrumentation
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Installing Sinatra instrumentation
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Installing deferred Rack instrumentation
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Installing Rack::Builder middleware instrumentation
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Finished instrumentation
+[08/14/14 21:01:13 +1000 stuartauld.local (26357)] INFO : Doing deferred dependency-detection before Rack startup
+[08/14/14 21:01:17 +1000 stuartauld.local (26357)] ERROR : Invalid license key, please contact support@newrelic.com
+[08/14/14 21:01:17 +1000 stuartauld.local (26357)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

@@ -1,1 +1,14 @@
-%h2 Ahoy
+%h2 IWTA 2014/15 Tour
+%table{:class => "sortable"}
+	%thead
+		%tr
+			%th Player
+			%th Points
+			%th Handicap
+	%tbody
+		- @info.each do |p|
+			%tr
+				%th
+					%a{:href => "/playerz/#{p["id"]}"}= p["PlayerName"]
+				%th= p["points201415"]
+				%th= p["Handicap"]
