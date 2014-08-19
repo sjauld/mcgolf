@@ -1,0 +1,6 @@
+%h2 Welcome
+%p It seems like you have just installed the Golf System. Congratulations! To initialise, please enter your tour name and click Golf!
+%form{:action => '/init', :method => 'post', :name => 'init', :id => 'init'}
+	%fieldset
+		%input{:type => 'text', :name => 'comp', :value => 'Enter your comp name'}
+		%button Golf!

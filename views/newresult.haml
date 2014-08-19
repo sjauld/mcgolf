@@ -1,0 +1,24 @@
+%h2 Add a new result to the database
+%form{:name => "NewResult", :id => "NewResult", :action => "/newresult", :method => "post"}
+	%fieldset
+		%table
+			%tbody
+				%tr
+					%th Competition Date
+					%td
+						%input{:type => "text", :name => "date", :value => "Enter date"}
+		%table
+			%thead
+				%tr
+					%th Position
+					%th Player
+			%tbody
+				- 1.upto(10) do |row| # TODO: Select the number of players before we get here and enforce some kind of selection logic
+					%tr
+						%th= row
+						%td
+							%select{:name => "position[#{row}]"}
+								%option Select a player
+								- @players.each do |player|
+									%option= player["PlayerName"]
+		%button GOGOGO!

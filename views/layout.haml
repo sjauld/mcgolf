@@ -18,22 +18,21 @@
     / Add your site or application content here
     #wrapper
       #header
-        %h1 IWTA Golf Platform
+        %h1 #{TOUR_NAME} Golf Platform
       #content
         =yield
       #footer
         %p
           %a{:href => "/"} There's no place like home
           |
-          %a{:href => "/result"} Add a result
+          %a{:href => "/newresult"} Add a result
           |
+          / This stuff to be hidden before release
           %a{:href => "/newplayer"} Add a player
           |
           %a{:href => "/updato"} Update hcps
           |
           %a{:href => "/updatop"} Update points
-          / |
-          / %a{:href => "/courses"} See the courses
     %script{src: "//ajax.googleapis.com/ajax/libs/jquery//jquery.min.js"}
     :javascript
       window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')
