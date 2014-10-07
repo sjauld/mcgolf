@@ -4,9 +4,11 @@
 		%tr
 			%th Player
 			%th Handicap
+			%th Tour Points
 	%tbody
 		- @info.each do |p|
 			%tr
 				%th
-					%a{:href => "/playerz/#{p["PlayerName"]}"}= p["PlayerName"]
-				%th= p["Handicap"]
+					%a{:href => "/playerz/#{p.PlayerName}"}= p.PlayerName
+				%th= p.Handicap
+				%th= p.Points

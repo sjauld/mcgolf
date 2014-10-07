@@ -22,3 +22,8 @@ gem 'json'
 
 # New Relic
 gem 'newrelic_rpm'
+
+# Database
+gem 'datamapper'
+gem 'dm-core'
+gem 'dm-timestamps'

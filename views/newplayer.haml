@@ -1,21 +1,21 @@
 %h2 Add a new player to the database
 %form{:name => "NewPlayer", :id => "NewPlayer", :action => "/newplayer", :method => "post"}
-	%fieldset
-		%table
-			%thead
-				%tr
-					%th Parameter
-					%th Value
-			%tbody
-				%tr
-					%th ID
-					%td= @id
-				%tr
-					%th Player Name
-					%td 
-						%input{:type => "text", :name => "PlayerName", :value => "Enter name"}
-				%tr
-					%th Handicap
-					%td
-						%input{:type => "handicap", :name => "Handicap", :value => "Handicap"}
-	%button GOGOGO!
+  %fieldset
+    %table
+      %thead
+        %tr
+          %th Parameter
+          %th Value
+      %tbody
+        %tr
+          %th ID
+          %td= @id
+        %tr
+          %th Player Name
+          %td 
+            %input{:type => "text", :name => "PlayerName", :placeholder => "Enter name"}
+        %tr
+          %th Handicap
+          %td
+            %input{:type => "handicap", :name => "Handicap", :placeholder => "Handicap"}
+  %button Create!

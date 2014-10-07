@@ -1,11 +1,11 @@
-%h2= "#{@info["PlayerName"]}'s details!"
+%h2= "#{@info.PlayerName}'s details!"
 %table
 	%thead
 		%tr
 			%th Parameter
 			%th Value
 	%tbody
-		- @info.each do |p|
+		- @info.instance_variables.each do |k|
 			%tr
-				%th= p[0]
-				%th= p[1]
+				%th= k
+				%th= @info.instance_variable_get(k)
