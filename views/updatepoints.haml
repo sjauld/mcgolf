@@ -1,0 +1,17 @@
+%h2 Points update matromatron
+%form{:name => "UpdatePoints", :id => "UpdatePoints", :action => "/update-points", :method => "post"}
+  %fieldset
+    %table{:class => "sortable"}
+      %thead
+        %tr
+          %th Name
+          %th Current points
+          %th Updated points
+      %tbody
+        - @info.each do |p|
+          %tr
+            %th= p.PlayerName
+            %td= p.Points
+            %td
+              %input{:name => "#{p.PlayerName}", :placeholder => "#{p.Points}"}
+    %button Update Points!

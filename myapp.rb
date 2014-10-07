@@ -1,15 +1,18 @@
 #myapp.rb
-require 'sinatra'				# that's my web server
-require 'httparty'			# this probably does some HTTP stuff
-require 'haml'					# this one is quite good for markup
-require 'rack/ssl'			# without this we probably can't run
-require 'json'					# this is how we talk
+require 'sinatra'   				# that's my web server
+require 'httparty'    			# this probably does some HTTP stuff
+require 'haml'    					# this one is quite good for markup
+require 'rack/ssl'			    # without this we probably can't run
+require 'json'					    # this is how we talk
+require './models/golf'     # golf module
 
-# TODO: add .gitignore stuff, initialise the key.json files
+# TODO: initialise the key.json files
 
 def is_number?(object)
   true if Float(object) rescue false
 end
+
+
 
 class McGolf < Sinatra::Application
   
@@ -29,36 +32,30 @@ class McGolf < Sinatra::Application
 
   ERROR_FILE = File.join(Dir.pwd, 'errors.json')
 
-  is_initialised = File.exists?(TOUR_FILE)
-  if is_initialised then 
-    TOUR_NAME = File.read(TOUR_FILE)
-  else
-    TOUR_NAME = "Untitled"
+  # Get the name of the tour 
+  TOUR_NAME = File.read(TOUR_FILE)
+  IS_INITIALISED = TOUR_NAME.empty? == false
+
+  def initialise
+    unless IS_INITIALISED
+      redirect '/init', 302
+    end
   end
-  
+
   #######################################################################
   #                        ALL ABOUT THE PLAYERS                        #
   #######################################################################
 
   get '/' do
-    # check if we have been initialised
-    unless File.exists?(TOUR_FILE)
-      redirect '/init', 302
-    end
-
+    initialise
     # the root page will show some info about the players
-    @info = []
-
-    # Read the files from the players directory
-    Dir.glob(File.join(PLAYER_DIR,'*.player.json')).each do |f|
-      @info.push(JSON.parse(File.read(f)))
-    end
+    @info = Golf::Player.get_all
   	haml :index
   end
-  
+
   get '/playerz/:id' do
     # open the player file
-    @info = JSON.parse(File.read(File.join(PLAYER_DIR,"#{params['id']}.player.json")))
+    @info = Golf::Player.load(params["id"])
     haml :playerzinfo
   end
   
@@ -66,26 +63,20 @@ class McGolf < Sinatra::Application
   #                      BULK UPDATE OF HANDICAPS                       #
   #######################################################################
  
-  get '/updato' do
-    @info=[]
-    # Read the files from the players directory
-    Dir.glob(File.join(PLAYER_DIR,'*.player.json')).each do |f|
-      @info.push(JSON.parse(File.read(f)))
-    end
-  	haml :updato
+  get '/update-hcps' do
+    @info = Golf::Player.get_all
+  	haml :updatehcps
   end
   
-  post '/updato' do
+  post '/update-hcps' do
     # TODO: security....?
-    
     # The payload is {id1 => hcp1, id2 => hcp2, id3 => hcp3, ad nauseum}
-    
+
     params.each do |p|
-      filename = File.join(PLAYER_DIR,"#{p[0]}.player.json")
-      data = JSON.parse(File.read(filename))
-      data["Handicap"] = p[1]
-      File.open(filename,'w') do |f|
-        f.write(data.to_json)
+      unless p[1].empty?
+        player = Golf::Player.load(p[0])
+        player.Handicap = p[1]
+        player.save!
       end
     end
     redirect '/',302 
@@ -94,26 +85,21 @@ class McGolf < Sinatra::Application
   #                         BULK UPDATE OF POINTS                       #
   #######################################################################
  
-  get '/updatop' do
-    @info=[]
-    # Read the files from the players directory
-    Dir.glob(File.join(PLAYER_DIR,'*.player.json')).each do |f|
-      @info.push(JSON.parse(File.read(f)))
-    end
-  	haml :updatop
+  get '/update-points' do
+    @info = Golf::Player.get_all
+  	haml :updatepoints
   end
   
-  post '/updatop' do
-    # TODO: security....?
-    
-    # The payload is {id1 => hcp1, id2 => hcp2, id3 => hcp3, ad nauseum}
-    
-    params.each do |p|
-      filename = File.join(PLAYER_DIR,"#{p[0]}.player.json")
-      data = JSON.parse(File.read(filename))
-      File.open(filename,'w') do |f|
-        f.write(data.to_json)
+  post '/update-points' do
+    # TODO: security....? 
+
+    params.each do |p| 
+      unless p[1].empty?
+        player = Golf::Player.load(p[0])
+        player.Points = p[1]
+        player.save!
       end
+
     end
     redirect '/',302 
   end
@@ -123,35 +109,21 @@ class McGolf < Sinatra::Application
   #######################################################################
     
   get '/newplayer' do
-    # determine the next ID - ID changed to player name!
-    # @id = File.read(PLAYER_KEY).to_i + 1
-    # File.open(PLAYER_KEY,'w') do |f|
-    #  f.write(@id)
-    # end
   	haml :newplayer
   end
   
   post '/newplayer' do
     # TODO: security....?
     # add the player 
-    filename = File.join(PLAYER_DIR,"#{params["PlayerName"]}.player.json")
-    unless is_number?(params["Handicap"]) # do something about incorrect handicap entry
-      redirect '/error?n=1',302
-    end
-    if File.exists?(filename) # check that we're not overwriting anyone
-      redirect '/error?n=2',302
-    else
-      File.open(filename,'w') do |f|
-        f.write(params.to_json)
-      end
-    end
-    redirect '/',302
+    new_player = Golf::Player.create!(params["PlayerName"],params)
+    redirect "/playerz/#{params["PlayerName"]}",302
   end
 
   #######################################################################
   #                           ERROR HANDLING                            #
   #######################################################################
- 
+  
+  # TODO: don't do it like this...
   get '/error' do
     errors = JSON.parse(File.read(ERROR_FILE))
     @errormsg = errors[params[:n]]
@@ -185,6 +157,7 @@ class McGolf < Sinatra::Application
     File.open(RESULT_KEY, 'w') do |f|
       File.write(f,0)
     end
+    IS_INITIALISED = true
     redirect '/',302
   end
 
@@ -289,6 +262,9 @@ class McGolf < Sinatra::Application
     haml :coursedeets
   end
 
+  error do
+    'Error: ' + env['sinatra.error'].message
+  end
 
 
 
